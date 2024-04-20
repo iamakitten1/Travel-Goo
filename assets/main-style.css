@@ -1,0 +1,36 @@
+.site-header {
+    background-color: black;
+
+}
+
+.container {
+    max-width: 1250px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-family: 'Laila';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24.6px;
+    text-align: center;
+}
+.span{
+    font-family: 'Laila';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32.8px;
+    text-align: center;
+    }
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 0;
+}
+
+.main-navigation .travel-go-navigation {
+    width: auto;
+}
